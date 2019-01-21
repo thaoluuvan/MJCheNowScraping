@@ -1,0 +1,28 @@
+{
+  "name": "mjchenowscraping",
+  "version": "1.0.0",
+  "description": "this is server for scarping menu data from now.vn website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaoluuvan/MJCheNowScraping.git"
+  },
+  "keywords": [
+    "now.vn",
+    "scraping",
+    "now",
+    "api",
+    "json",
+    "menu"
+   "mjchenow"
+  ],
+  "author": "morejump",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaoluuvan/MJCheNowScraping/issues"
+  },
+  "homepage": "https://github.com/thaoluuvan/MJCheNowScraping#readme"
+}
