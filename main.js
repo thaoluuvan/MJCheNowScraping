@@ -11,7 +11,7 @@ const url= "https://www.now.vn/ha-noi/tra-sua-heytea-nga-tu-so";
     const status = await page.open(url);
    // console.log(status);
 
-    const content = await page.property('body');
+    const content = await page.evaluate()
     console.log(content);
     await instance.exit();
 }());
